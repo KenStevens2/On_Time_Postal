@@ -1,6 +1,7 @@
 Welcome to On Time Postal, this project utilizes Python to create delivery routes
 for 3 trucks using the Nearest Neighbor Algorithm. 
 
+Below is a simple custom command line GUI designed for user lookup functions.
 <img width="1352" height="1182" alt="image" src="https://github.com/user-attachments/assets/922dc3d3-aa2c-4289-b6bc-4924ca5d086b" />
 
 Users can also specify specific times to check the delivery status of packages
