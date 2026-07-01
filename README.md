@@ -1,4 +1,4 @@
-Welcome to On Time Postal, this project utilizes Python in Pycharm to create delivery routes
+Welcome to On Time Postal, this project utilizes Python to create delivery routes
 for 3 trucks using the Nearest Neighbor Algorithm. 
 
 <img width="1352" height="1182" alt="image" src="https://github.com/user-attachments/assets/922dc3d3-aa2c-4289-b6bc-4924ca5d086b" />
